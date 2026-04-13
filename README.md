@@ -1,3 +1,5 @@
-# open-source-repo
+# Open Source Project, 2026
 
-Yerim Jeong, 23010480, In Sejong Univ
+## Yerim Jeong
+## Sejong University
+## Mathematics and Statistics & Datascience
