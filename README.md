@@ -6,10 +6,12 @@ Hi, I'm Yerim 👋
 💡 Interested in ML, XAI, and time-series forecasting  
 🛠️ Python • R • SQL • FastAPI  
 
+
 🚀 Projects:
 - Parking prediction system (ML + Streamlit)
 - Time-series temperature forecasting
 - NLP sentiment analysis on debate data
+
 
 🌱 Currently contributing to open-source
 
