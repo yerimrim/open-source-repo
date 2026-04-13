@@ -2,7 +2,7 @@
 
 Hi, I'm Yerim 👋
 
-## About Me
+## 🙆‍♀️ About Me
 - Name: Yerim Jeong
 - University: Sejong University
 - Cource: Introduction to Open Source Software
