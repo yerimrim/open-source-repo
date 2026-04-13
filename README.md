@@ -3,7 +3,7 @@
 Hi, I'm Yerim 👋
 
 🎓 AI & Data Science student at Sejong University  
-💡 Interested in ML, XAI, and time-series forecasting  
+💡 Interested in ML, XAI, and backend development
 🛠️ Python • R • SQL • FastAPI  
 
 
