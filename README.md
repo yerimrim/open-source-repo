@@ -2,15 +2,11 @@
 
 Hi, I'm Yerim 👋
 
-🎓 Mathematics and Statistics & Data Science student at Sejong University  
-💡 Interested in machine learning, explainable AI (XAI), and backend development  
-
----
-
-## 🧠 About Me
-- Focused on building real-world machine learning applications  
-- Interested in time-series forecasting, NLP, and model interpretability (XAI)  
-- Enjoy working on data-driven systems and applied AI projects  
+## About Me
+- Name: Yerim Jeong
+- University: Sejong University
+- Cource: Introduction to Open Source Software
+- Interested in: ML, time-series forecasting, NLP, model interpretability (XAI), and backend development
 
 ---
 
